@@ -717,3 +717,5 @@ function ctrl_c() {
 }
 
 main
+# Clear current shell variables
+exec bash
